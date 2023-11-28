@@ -5,4 +5,4 @@
 
 For mouse pointer theme --> https://github.com/ful1e5/Bibata_Cursor
 
-For Xubuntu Elementary-Xfce icon theme --> https://github.com/shimmerproject/elementary-xfce
+For Xubuntu icon theme --> https://github.com/shimmerproject/elementary-xfce
